@@ -1,1 +1,1 @@
-# RetroVGA---Documentation
+# RetroVGA-Documentation
